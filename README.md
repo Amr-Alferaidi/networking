@@ -25,4 +25,4 @@ This repository contains practical networking projects using Cisco Packet Tracer
 ---
 
 ## 📌 Author
-Your Name
+Amr Alferaidi
