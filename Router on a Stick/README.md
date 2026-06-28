@@ -2,12 +2,12 @@
 
 
 
-## 📖 Overview
+##  Overview
 This project demonstrates **Inter-VLAN Routing (Router-on-a-Stick)** using a single router interface.
 
 ---
 
-## 🧠 Key Concepts
+##  Key Concepts
 - VLANs (Virtual LANs)
 - 802.1Q Trunking
 - Subinterfaces
@@ -17,12 +17,12 @@ This project demonstrates **Inter-VLAN Routing (Router-on-a-Stick)** using a sin
 
 ---
 
-## 🖥️ Network Topology
+##  Network Topology
 <img width="1366" height="768" alt="Topology" src="https://github.com/user-attachments/assets/5d5b402c-992e-4776-b406-875d767476db" />
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 ### 🔹 VLAN Configuration (Switch)
 - VLANs created: 10, 20, 30  
